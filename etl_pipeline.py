@@ -1,6 +1,6 @@
 import pandas as pd
-from sqlalchemy import create_engine
 import requests
+from sqlalchemy import create_engine
 
 
 def extract_data():
